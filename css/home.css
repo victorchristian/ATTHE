@@ -1,0 +1,53 @@
+body {
+  background-image: url("clay.jpg");
+}
+h1{
+  color: white;
+}
+p{
+  color:white;
+}
+.cara{
+  height: 100%;
+  width: 100%;
+  padding: 50px 0 50px;
+}
+.container1{
+  height: 500px;
+  width: 33.3%;
+  background-image: url(tray.jpg);
+  background-size: cover;
+  float: left;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 50px;
+}
+.container2{
+  height: 500px;
+  width: 33.3%;
+  background-image:url("pot.jpg");
+  float: left;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 50px;
+}
+.container3{
+  height: 500px;
+  width: 33.3%;
+  background-image:url("statue.jpg");
+  background-size: cover;
+  background-position: center;
+  float: left;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 50px;
+}
